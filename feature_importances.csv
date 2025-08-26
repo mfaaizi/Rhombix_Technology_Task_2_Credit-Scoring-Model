@@ -1,0 +1,20 @@
+feature,importance
+Credit_History,0.28891617
+Married_Yes,0.058932804
+CoapplicantIncome,0.05798668
+Property_Area_Semiurban,0.054166812
+Total_Income,0.049195517
+ApplicantIncome,0.047520917
+DTI,0.047350697
+Loan_Amount_Term,0.04376225
+Dependents,0.04196721
+Property_Area_Urban,0.040050566
+Married_No,0.039967336
+LoanAmount,0.03935851
+Property_Area_Rural,0.03634993
+Self_Employed_No,0.03245926
+Education_Graduate,0.03198472
+Self_Employed_Yes,0.028967783
+Education_Not Graduate,0.027603092
+Gender_Male,0.023356918
+Gender_Female,0.010102851
